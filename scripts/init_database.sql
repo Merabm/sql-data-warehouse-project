@@ -1,8 +1,4 @@
 
-/*
-Create Database and Schemas
-/*
-
 USE master;
 
 CREATE DATABASE DataWarehouse;
